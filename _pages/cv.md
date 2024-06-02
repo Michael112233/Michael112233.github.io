@@ -11,53 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.S. in Sun Yat-sen University, Software Engineering, 2025(expected)
+  * Current GPA: 4.06/5
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Programming
+  * C++/C
+  * Golang
+  * Python
+* Language
+  * Chinese: My mother language
+  * English: Fluent
+    * IELTS: 7.0
+      * **Listening**: 7.0; **Reading**: 7.5; **Writing**: 6.5; **Speaking**: 6.0
 * Skill 3
 
-Publications
+Scholarship
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Excellent Student Scholarship in Sun Yat-sen University
   
-Talks
+Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Teaching Assistant(CSE312, CSE314) Mar 2024 - Jul 2024
+  * I am currently becoming a teaching assistant on the course of **Compiler Principle** and **Compiler Construction Experiment** in School of Cyber Science and Technology, Sun Yat-sen University.
   
-Teaching
+Paper
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Waiting to update
   
 Service and leadership
 ======
