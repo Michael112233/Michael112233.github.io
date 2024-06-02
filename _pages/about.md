@@ -12,4 +12,4 @@ I am currently an third-year undergraduated university student(2021.09-2025.06) 
 ---
 ## For More Information
 
-Please turn to [CV](https://academicpages.github.io/cv/)
+Please turn to [CV](https://michael112233.github.io/cv/)
