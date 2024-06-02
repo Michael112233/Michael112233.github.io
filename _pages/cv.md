@@ -41,4 +41,4 @@ Area of Interests
   
 Paper
 ======
-* Currently signed in to 43 different slack teams
+* Waiting to update
