@@ -25,7 +25,6 @@ Skills
   * English: Fluent
     * IELTS: 7.0
       * **Listening**: 7.0; **Reading**: 7.5; **Writing**: 6.5; **Speaking**: 6.0
-* Skill 3
 
 Scholarship
 ======
@@ -34,12 +33,12 @@ Scholarship
 Experience
 ======
 * Teaching Assistant(CSE312, CSE314) Mar 2024 - Jul 2024
-  * I am currently becoming a teaching assistant on the course of **Compiler Principle** and **Compiler Construction Experiment** in School of Cyber Science and Technology, Sun Yat-sen University.
+  * Teaching assistant on the course of **Compiler Principle** and **Compiler Construction Experiment** in School of Cyber Science and Technology, Sun Yat-sen University.
+  
+Area of Interests
+======
+* Federated Learning Optimization
   
 Paper
-======
-* Waiting to update
-  
-Service and leadership
 ======
 * Currently signed in to 43 different slack teams
