@@ -33,7 +33,7 @@ Scholarship
 Experience
 ======
 * Teaching Assistant(CSE312, CSE314) Mar 2024 - Jul 2024
-  * Teaching assistant on the course of **Compiler Principle** and **Compiler Construction Experiment** in School of Cyber Science and Technology, Sun Yat-sen University.
+  * The teaching assistant for the course on **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
   
 Area of Interests
 ======
