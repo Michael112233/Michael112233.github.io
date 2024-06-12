@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The page shows the brief information about me, details can be checked [here](https://michael112233.github.io/files/michael_cv.pdf)
+The page shows the brief information about me. Details can be checked [here](https://michael112233.github.io/files/michael_cv.pdf)
 
 Education
 ======
