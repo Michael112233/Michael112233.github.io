@@ -14,7 +14,7 @@ The page shows the brief information about me. Details can be checked [here](htt
 Education
 ======
 * B.S. in Sun Yat-sen University, Software Engineering, 2025(expected)
-  * Current GPA: 90.06/100
+  * Current GPA: 91/100
   
 Skills
 ======
