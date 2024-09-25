@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year university student(2021.09-2025.06) in Sun Yat-sen University in China, majoring in Software Engineering.
+I am currently a senior university student(2021.09-2025.06) in Sun Yat-sen University in China, majoring in Software Engineering.
+
+My interest is the distributed system and the distributed learning. In order to learn more and make a difference in this field, I am pursuing for Ph.d.
 
 For More Information
 ======
