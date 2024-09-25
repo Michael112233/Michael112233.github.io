@@ -24,20 +24,24 @@ Skills
   * Python
 * Language
   * Chinese: Mother Tongue
-  * English: Fluent(IELTS: 7.0)
-    * **Listening**: 7.0; **Reading**: 7.5; **Writing**: 6.5; **Speaking**: 6.0
+  * English: Fluent
+    * IELTS (Overall: 7.0)
+      * **Listening**: 7.0; **Reading**: 7.5; **Writing**: 6.5; **Speaking**: 6.0
+    * GRE (Overall: 315 + 3.5)
+      * **Verbal**: 145; **Quantity**: 170; **Writing**: 3.5
   
-Research
+Research Experience
 ======
-* **Historical Information Assisted Zeroth-order Federated Optimization** Aug 2023 - Dec 2023
-  * A federated zeroth-order optimization algorithm using historical information to improve the convergence performance.
-  * Responsible for designing comparison experiments with other popular federated optimization algorithm, and for paper writing.
-  * The paper will be submitted in Aug 2024.
+* **Historical Information Assisted Zeroth-order Federated Optimization** 
+  * Gaussian smoothing is a significant optimization algorithm which can evaluate the gradients in zeroth-order settings. However, standard gaussian smoothing computes the finite differences along isotropic sampling direction, suffering from high estimation errors. 
+  * We propose a zeroth-order federated optimization assisted by historical trajectories. When the clients train the model, they can sample the direction subspaces from a non-isotropic covariance matrix including the historical trajectories information. Therefore, the algorithm can perform well due to mastering the objective landscape.
+  * In this work, I am responsible for proposing the algorithm, designing the comparison experiments and writing the paper.
+  * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
+  * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
 
 * **A Blockchain Layer 2 Framework Ensuring Secure Sharding** May 2024 - Aug 2024
   * A two-layer approach to achieve secure sharding. A consensus-storage separation mechanism used for shards reconfiguration with a low network burden.
   * Responsible for design comparison experiments to compare the performance of our framework with other popular layer 2 schemes which supports sharding.
-  * The paper will be submitted in Jul 2024.
 
 Other Experience
 ======
@@ -46,13 +50,15 @@ Other Experience
   
 Area of Interests
 ======
-* Federated Learning Optimization
-* Blockchain Crosschain Problem and Structure Design
+* Distributed System 
+* Distributed Learning
+* Machine Learning
   
 Scholarship
 ======
-* Excellent Student Scholarship in Sun Yat-sen University, 2022/2023
+* Excellent Student Scholarship in Sun Yat-sen University, 2022-2024
 
 Paper
 ======
-* Waiting to update
+* Xiaoyu He*, Chenlin Wu, Zike Li, Zibin Zheng, "Historical Trajectory Assisted Zeroth-Order Federated Optimization" (Under review)
+* Huawei Huang, Miaoyong Xu, Chenlin Wu, Xiaofei Luo, Taotao Li, Qinglin Yang, Jianru Lin, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
