@@ -62,5 +62,5 @@ Scholarship
 
 Paper
 ======
-* Chenlin Wu, Xiaoyu He*, Zike Li, Zibin Zheng, "Historical Trajectory Assisted Zeroth-Order Federated Optimization" (Under review, IEEE IoT Journal， CCF-C)
-* Huawei Huang(Supervisor), Miaoyong Xu, Chenlin Wu, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
+* Chenlin Wu, Xiaoyu He*, Zike Li, Zibin Zheng, "A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning" (Under review, IEEE IoT Journal, CCF-C)
+* Huawei Huang, Miaoyong Xu, Chenlin Wu, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
