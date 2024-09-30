@@ -37,7 +37,7 @@ Research Experience
   * We propose a zeroth-order federated optimization assisted by historical trajectories. When the clients train the model, they can sample the direction subspaces from a non-isotropic covariance matrix including the historical trajectories information. Therefore, the algorithm can perform well due to mastering the objective landscape.
   * In this work, I am responsible for proposing the algorithm, designing the comparison experiments and writing the paper.
   * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
-  * [Click here for the paper of the work](https://github.com/Michael112233/Historical_trajectory_assisted_zeroth_order_federated_optimization_2024_IoT_J__ 01.pdf)
+  * [Click here for the paper of the work](https://michael112233.github.io/publications/Historical_trajectory_assisted_zeroth_order_federated_optimization_2024_IoT_J__ 01.pdf)
 
 * **A Blockchain Layer 2 Framework Ensuring Secure Sharding** May 2024 - Aug 2024
   * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
