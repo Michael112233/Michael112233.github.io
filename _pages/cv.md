@@ -20,15 +20,15 @@ Skills
 ======
 * Programming
   * C++/C
-  * Golang
-  * Python
+  * Golang(familiar with achieving blockchain using golang)
+  * Python(familiar with the common AI package like pytorch and tensorflow)
 * Language
   * Chinese: Mother Tongue
   * English: Fluent
     * IELTS (Overall: 7.0)
       * **Listening**: 7.0; **Reading**: 7.5; **Writing**: 6.5; **Speaking**: 6.0
-    * GRE (Overall: 315 + 3.5)
-      * **Verbal**: 145; **Quantity**: 170; **Writing**: 3.5
+    <!-- * GRE (Overall: 315 + 3.5)
+      * **Verbal**: 145; **Quantity**: 170; **Writing**: 3.5 -->
   
 Research Experience
 ======
@@ -37,11 +37,12 @@ Research Experience
   * We propose a zeroth-order federated optimization assisted by historical trajectories. When the clients train the model, they can sample the direction subspaces from a non-isotropic covariance matrix including the historical trajectories information. Therefore, the algorithm can perform well due to mastering the objective landscape.
   * In this work, I am responsible for proposing the algorithm, designing the comparison experiments and writing the paper.
   * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
-  * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
+  * [Click here for the paper of the work](https://github.com/Michael112233/Historical_trajectory_assisted_zeroth_order_federated_optimization_2024_IoT_J__ 01.pdf)
 
 * **A Blockchain Layer 2 Framework Ensuring Secure Sharding** May 2024 - Aug 2024
-  * A two-layer approach to achieve secure sharding. A consensus-storage separation mechanism used for shards reconfiguration with a low network burden.
-  * Responsible for design comparison experiments to compare the performance of our framework with other popular layer 2 schemes which supports sharding.
+  * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
+  * We propose a two-layer system LessChain, which decouples the functions of consensus and storage into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system can reconfig the nodes in all the shards, so that the system can be robust to counter physical attacks.
+  * In this work, I am responsible for design comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
 
 Other Experience
 ======
@@ -60,5 +61,5 @@ Scholarship
 
 Paper
 ======
-* Xiaoyu He*(Supervisor), Chenlin Wu, Zike Li, Zibin Zheng, "Historical Trajectory Assisted Zeroth-Order Federated Optimization" (Under review)
-* Huawei Huang(Supervisor), Miaoyong Xu, Chenlin Wu, Xiaofei Luo, Taotao Li, Qinglin Yang, Jianru Lin, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
+* Chenlin Wu, Xiaoyu He*, Zike Li, Zibin Zheng, "Historical Trajectory Assisted Zeroth-Order Federated Optimization" (Under review, IEEE IoT Journal， CCF-C)
+* Huawei Huang(Supervisor), Miaoyong Xu, Chenlin Wu, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
