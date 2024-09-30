@@ -27,8 +27,7 @@ Skills
   * English: Fluent
     * IELTS (Overall: 7.0)
       * **Listening**: 7.0; **Reading**: 7.5; **Writing**: 6.5; **Speaking**: 6.0
-    <!-- * GRE (Overall: 315 + 3.5)
-      * **Verbal**: 145; **Quantity**: 170; **Writing**: 3.5 -->
+    
   
 Research Experience
 ======
