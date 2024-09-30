@@ -41,7 +41,7 @@ Research Experience
 * **A Blockchain Layer 2 Framework Ensuring Secure Sharding** May 2024 - Aug 2024
   * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
   * We propose a two-layer system LessChain, which decouples the functions of consensus and storage into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system can reconfig the nodes in all the shards, so that the system can be robust to counter physical attacks.
-  * In this work, I am responsible for design comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
+  * In this work, I am responsible for designing comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
 
 Other Experience
 ======
