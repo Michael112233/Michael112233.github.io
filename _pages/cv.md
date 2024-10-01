@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-The page shows the brief information about me. Details can be checked [here](https://michael112233.github.io/files/michael_cv.pdf)
+The page shows the information about me. The pdf version is also available. You can find it [here](https://michael112233.github.io/files/michael_cv.pdf)
 
 Education
 ======
 * B.S. in Sun Yat-sen University, Software Engineering, 2025(expected)
-  * Current GPA: 91/100
+  * Current GPA: 91.11/100
   
 Skills
 ======
@@ -43,11 +43,11 @@ Research Experience
   * We propose a two-layer system LessChain, which decouples the functions of consensus and storage into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system can reconfig the nodes in all the shards, so that the system can be robust to counter physical attacks.
   * In this work, I am responsible for designing comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
 
-Other Experience
+Other Experiences
 ======
 * Teaching Assistant(CSE312, CSE314) Feb 2024 - Jul 2024
   * The teaching assistant for the course on **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
-  * my duty is to check students' homework and assist students' to accomplish the experiments, which trains my communication skills and the ability to express my thoughts clearly.
+  * My responsibility is to check students' homework and assist students' to accomplish the experiments, which trains my communication skills and the ability to express my thoughts clearly.
   
 Area of Interests
 ======
