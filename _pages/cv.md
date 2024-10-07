@@ -34,14 +34,14 @@ Research Experiences
 * **Historical Information Assisted Zeroth-order Federated Optimization** 
   * Gaussian smoothing is a significant optimization algorithm which can evaluate the gradients in zeroth-order settings. However, standard gaussian smoothing computes the finite differences along isotropic sampling direction, suffering from high estimation errors. 
   * We propose a zeroth-order federated optimization assisted by historical trajectories. When the clients train the model, they can sample the direction subspaces from a non-isotropic covariance matrix including the historical trajectories information. Therefore, the algorithm can perform well due to mastering the objective landscape.
-  * In this work, I propose the algorithm, design the comparison experiments to prove the effectiveness of our algorithm and write the paper.
+  * In this work, I proposed the algorithm, designed the comparison experiments to prove the effectiveness of our algorithm and wrote the paper.
   * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
   * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
 
 * **A Blockchain Layer 2 Framework Ensuring Secure Sharding** May 2024 - Aug 2024
   * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
-  * We propose a two-layer blockchain system LessChain, which decouples the functions of consensus and storage into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system can reconfig the nodes in all the shards, so that the system can be robust to counter physical attacks.
-  * In this work, I am responsible for designing comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
+  * We propose a two-layer blockchain system LessChain, which decouples the functions of consensus and state storage into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system supports reconfiguration of the nodes in all the shards, so that the system can be robust to counter physical attacks.
+  * In this work, I designed comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
 
 Other Experiences
 ======
@@ -61,5 +61,5 @@ Scholarship
 
 Paper
 ======
-* <u>Chenlin Wu</u>, Xiaoyu He*, Zike Li, Zibin Zheng, "A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning" (Under review, Applied Soft Computing, JCR Q1)
-* Huawei Huang, Miaoyong Xu, <u>Chenlin Wu</u>, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
+* <u>Chenlin Wu</u>, Xiaoyu He*, Zike Li, Zibin Zheng, "A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning" (under review, Applied Soft Computing, JCR Q1)
+* Huawei Huang, Miaoyong Xu, <u>Chenlin Wu</u>, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (under review, Financial Cryptography and Data Security 2025, CCF-C)
