@@ -61,5 +61,5 @@ Scholarship
 
 Paper
 ======
-* Chenlin Wu, Xiaoyu He*, Zike Li, Zibin Zheng, "A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning" (Under review, Applied Soft Computing, JCR Q1)
-* Huawei Huang, Miaoyong Xu, Chenlin Wu, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
+* <u>Chenlin Wu</u>, Xiaoyu He*, Zike Li, Zibin Zheng, "A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning" (Under review, Applied Soft Computing, JCR Q1)
+* Huawei Huang, Miaoyong Xu, <u>Chenlin Wu</u>, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" (Under review)
