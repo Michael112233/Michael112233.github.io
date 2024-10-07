@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The page shows the information about me. The pdf version is also available. You can find it [here](https://michael112233.github.io/files/michael_cv.pdf)
+The page shows the information about me. The pdf version is also available. You can find it [here](https://michael112233.github.io/files/michael_cv.pdf).
 
 Education
 ======
