@@ -13,15 +13,15 @@ The page shows the information about me. The pdf version is also available. You 
 
 Education
 ======
-* B.S. in Sun Yat-sen University, Software Engineering, 2025(expected)
-  * Current GPA: 91.11/100
+* B.S. in Sun Yat-sen University, Software Engineering, *2025*(expected)
+  * Current Score: 91.11/100;   Current GPA: 4.0/4.0
   
 Skills
 ======
 * Programming
   * C++/C
-  * Golang(familiar with achieving blockchain using Golang)
-  * Python(familiar with the common AI package like PyTorch and TensorFlow)
+  * Golang (Familiar with constructing blockchain system using Golang)
+  * Python (Familiar with the common AI package like PyTorch and TensorFlow.)
 * Language
   * Chinese: Mother Tongue
   * English: Fluent
@@ -31,21 +31,21 @@ Skills
   
 Research Experiences
 ======
-* **Historical Information Assisted Zeroth-order Federated Optimization** 
+* **Historical Information Assisted Zeroth-order Federated Optimization** *Feb. 2024 - Sept. 2024*
   * Gaussian smoothing is a significant optimization algorithm which can evaluate the gradients in zeroth-order settings. However, standard gaussian smoothing computes the finite differences along isotropic sampling direction, suffering from high estimation errors. 
   * We propose a **zeroth-order federated optimization assisted by historical trajectories**. When clients train the model, they can **sample the direction subspaces from a non-isotropic covariance matrix** including the historical trajectories information. Therefore, the algorithm can perform well due to mastering the objective landscape.
   * In this work, I proposed the algorithm, designed the comparison experiments to prove the effectiveness of our algorithm and wrote the paper.
   * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
   * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
 
-* **A Blockchain Layer 2 Framework Ensuring Secure Sharding** May 2024 - Aug 2024
+* **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *May. 2024 - Aug. 2024*
   * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
   * We propose a **two-layer blockchain system**, LessChain, which **decouples the functions of consensus and state storage** into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system **supports reconfiguration of the nodes** in all the shards, so that the system can be robust to counter physical attacks.
   * In this work, I designed comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
 
 Other Experiences
 ======
-* Teaching Assistant(CSE312, CSE314) Feb 2024 - Jul 2024
+* Teaching Assistant(CSE312, CSE314) *Feb. 2024 - Jul. 2024*
   * The teaching assistant for the course on **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
   * My responsibility is to check students' homework and assist students' to accomplish the experiments, which trains my communication skills and the ability to express my thoughts clearly.
   
@@ -58,13 +58,13 @@ Area of Interests
   
 Scholarship
 ======
-* Excellent Student Scholarship in Sun Yat-sen University, 2022 / 2023
+* Excellent Student Scholarship in Sun Yat-sen University, *2022 / 2023*
 
 Awards
 ======
-* Sun Yat-sen Program Designing Competition, **Second Prize**, 2022.10
+* Sun Yat-sen Program Designing Competition, **Second Prize**, *2022.10*
   * As the leader of our team, I organized my team well when faced with more than 12 problems with only one computer to program in the competition. Therefore, we solved as many problems as we could and won the Second Prize.
-* the 1st International Meta Computing Contest, **Third Prize**, 2024.06
+* the 1st International Meta Computing Contest, **Third Prize**, *2024.06*
   * Our team introduced the tool BlockEmulator, which is used to simulate the blockchain operation.
   * As one of the developers, I introduced the tool to the committee on behalf of our research group.
 
