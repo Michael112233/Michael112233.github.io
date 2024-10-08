@@ -13,6 +13,6 @@ Hello everyone! Welcome to my personal blog.
 
 I am currently a senior university student (2021.09-2025.06) in Sun Yat-sen University in China, majoring in Software Engineering.
 
-My interest is the distributed system and the machine learning. I am pursuing for Ph.d in order to learn more and make a difference in this field.
+My interest is distributed system and machine learning. I am pursuing for Ph.d in order to learn more and make a difference in these fields.
 
 You can turn to [CV](https://michael112233.github.io/cv/) for more details.
