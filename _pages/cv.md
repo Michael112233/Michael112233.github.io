@@ -20,7 +20,7 @@ Skills
 ======
 * Programming
   * C++/C
-  * Golang (Familiar with constructing blockchain system using Golang)
+  * Golang (Familiar with constructing blockchain system using Golang.)
   * Python (Familiar with the common AI package like PyTorch and TensorFlow.)
 * Language
   * Chinese: Mother Tongue
@@ -41,7 +41,7 @@ Research Experiences
 * **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *May. 2024 - Aug. 2024*
   * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
   * We propose a **two-layer blockchain system**, LessChain, which **decouples the functions of consensus and state storage** into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system **supports reconfiguration of the nodes** in all the shards, so that the system can be robust to counter physical attacks.
-  * In this work, I designed comparison experiments to test the performance of our system and compare our system with other existing two-layer sharding schemes.
+  * In this work, I designed comparison experiments to test the performance of our system and compared our system with another existing two-layer sharding scheme like Ethereum 2.0.
 
 Other Experiences
 ======
