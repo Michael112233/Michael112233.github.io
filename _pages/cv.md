@@ -67,7 +67,7 @@ Awards
 * Sun Yat-sen Program Designing Competition, **Second Prize**, *2022.10*
   * As the leader of our team, I organized my team well when faced with more than 12 problems with only one computer to program in the competition. Therefore, we solved as many problems as we could and won the Second Prize.
 * the 1st International Meta Computing Contest, **Third Prize**, *2024.06*
-  * held by IEEE International Conference on Meta Computing (ICMC)。
+  * held by IEEE International Conference on Meta Computing (ICMC) in Qingdao, China.
   * Our team introduced BlockEmulator, a tool used to simulate the blockchain system.
   * As one of the developers, I introduced the tool to the committee on behalf of our research group.
 
