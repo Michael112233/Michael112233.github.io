@@ -46,11 +46,13 @@ Research Experiences
   * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
 
 * **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *Jan. 2024 - Present*
-  * We propose a secure cross-chain scheme through multi-committee with a high throughout
-  * In this work, I investigated the existing cross-chain schemes, clarified these schemes, summarised the similarities of each categories, designed four comparison experiments to compare the performance of ours with the performance of these schemes and implemented our scheme and tested the performance of our scheme.
-  * The paper is still in preparation
+  * We propose a **two-layer blockchain system**, LessChain, which **decouples the functions of consensus and state storage** into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system **supports reconfiguration of the nodes** in all the shards, so that the system can be robust to counter physical attacks.
+  * In this work, I designed comparison experiments to test the performance of our system and compared our system with another existing two-layer sharding scheme like Ethereum 2.0.
 
 * **A High-Throughput Cross-chain Scheme Based on Multi-committee**
+  * We propose a secure cross-chain scheme through multi-committee with a high throughout
+  * In this work, I investigated the existing cross-chain schemes, clarified these schemes, summarised the similarities of each categories, designed four comparison experiments to compare the performance of ours with the performance of these schemes and implemented our scheme and tested the performance of our scheme.
+  * The paper is still in preparation.
 
 Other Experiences
 ======
