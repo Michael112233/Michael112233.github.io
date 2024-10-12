@@ -45,10 +45,12 @@ Research Experiences
   * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
   * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
 
-* **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *May. 2024 - Aug. 2024*
-  * Sharding is a promising technique in blockchain, while how to guarantee the security in shards is a serious problem.
-  * We propose a **two-layer blockchain system**, LessChain, which **decouples the functions of consensus and state storage** into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system **supports reconfiguration of the nodes** in all the shards, so that the system can be robust to counter physical attacks.
-  * In this work, I designed comparison experiments to test the performance of our system and compared our system with another existing two-layer sharding scheme like Ethereum 2.0.
+* **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *Jan. 2024 - Present*
+  * We propose a secure cross-chain scheme through multi-committee with a high throughout
+  * In this work, I investigated the existing cross-chain schemes, clarified these schemes, summarised the similarities of each categories, designed four comparison experiments to compare the performance of ours with the performance of these schemes and implemented our scheme and tested the performance of our scheme.
+  * The paper is still in preparation
+
+* **A High-Throughput Cross-chain Scheme Based on Multi-committee**
 
 Other Experiences
 ======
@@ -65,6 +67,7 @@ Awards
 * Sun Yat-sen Program Designing Competition, **Second Prize**, *2022.10*
   * As the leader of our team, I organized my team well when faced with more than 12 problems with only one computer to program in the competition. Therefore, we solved as many problems as we could and won the Second Prize.
 * the 1st International Meta Computing Contest, **Third Prize**, *2024.06*
+  * held by IEEE International Conference on Meta Computing (ICMC)。
   * Our team introduced BlockEmulator, a tool used to simulate the blockchain system.
   * As one of the developers, I introduced the tool to the committee on behalf of our research group.
 
