@@ -14,7 +14,7 @@ The page shows the information about me. The pdf version is also available. You 
 Education
 ======
 * B.S. in Sun Yat-sen University, Software Engineering, *2025*(expected)
-  * Current Score: 91.11/100;   Current GPA: 4.0/4.0
+  * Average Score: 91.11/100;   GPA: 4.0/4.0; 
   
 Area of Interests
 ======
@@ -38,31 +38,31 @@ Skills
   
 Research Experiences
 ======
-* **Historical Information Assisted Zeroth-order Federated Optimization** *Feb. 2024 - Sept. 2024*
+* **Historical Information Assisted Zeroth-order Federated Optimization** *Feb 2024 - Sept 2024*
   * Gaussian smoothing is a significant optimization algorithm which can evaluate the gradients in zeroth-order settings. However, standard gaussian smoothing computes the finite differences along isotropic sampling direction, suffering from high estimation errors. 
   * We propose a **zeroth-order federated optimization assisted by historical trajectories**. When clients train the model, they can **sample the direction subspaces from a non-isotropic covariance matrix** including the historical trajectories information. Therefore, the algorithm can perform well due to mastering the objective landscape.
   * In this work, I proposed the algorithm, designed the comparison experiments to prove the effectiveness of our algorithm and wrote the paper.
   * [Click here for the code of the algorithm](https://github.com/Michael112233/Federated-Learning-ZO)
   * [Click here for the paper of the work](https://arxiv.org/abs/2409.15955)
 
-* **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *Jan. 2024 - Present*
+* **A Blockchain Layer-2 Framework Ensuring Secure Sharding** *May 2024 - Sept 2024*
   * We propose a **two-layer blockchain system**, LessChain, which **decouples the functions of consensus and state storage** into different categories of shards. The consensus shards are responsible for transaction execution and validation. The storage shards handle the storage of ledgers' states. This system **supports reconfiguration of the nodes** in all the shards, so that the system can be robust to counter physical attacks.
   * In this work, I designed comparison experiments to test the performance of our system and compared our system with another existing two-layer sharding scheme like Ethereum 2.0.
 
-* **A High-Throughput Cross-chain Scheme Based on Multi-committee**
+* **A High-Throughput Cross-chain Scheme Based on Multi-committee** *Jan 2024 - Present*
   * We propose a secure cross-chain scheme through multi-committee with a high throughout
   * In this work, I investigated the existing cross-chain schemes, clarified these schemes, summarised the similarities of each categories, designed four comparison experiments to compare the performance of ours with the performance of these schemes and implemented our scheme and tested the performance of our scheme.
   * The paper is still in preparation.
 
 Other Experiences
 ======
-* Teaching Assistant(CSE312, CSE314) *Feb. 2024 - Jul. 2024*
+* Teaching Assistant(CSE312, CSE314) *Feb 2024 - Jul 2024*
   * The teaching assistant for the course on **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
   * My responsibility is to check students' homework and assist students' to accomplish the experiments, which trains my communication skills and the ability to express my thoughts clearly.
   
 Scholarship
 ======
-* Excellent Student Scholarship in Sun Yat-sen University, *2022 / 2023*
+* Excellent Student Scholarship in Sun Yat-sen University, *2022 / 2023 / 2024*
 
 Awards
 ======
