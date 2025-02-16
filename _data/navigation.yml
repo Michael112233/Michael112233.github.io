@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Publications"
+    url: /publications
     
   - title: "CV"
     url: /files/michael_cv.pdf
