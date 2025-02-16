@@ -21,7 +21,7 @@ Area of Interests
 * Distributed System 
   * protocol design and blockchain system
 * Machine Learning
-  * optimization algorithms, distributed learning, federated learning
+  * optimization theory, distributed learning, federated learning
 
 Skills
 ======
@@ -59,6 +59,7 @@ Other Experiences
 * Teaching Assistant(CSE312, CSE314) *Feb 2024 - Jul 2024*
   * The teaching assistant for the course on **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
   * My responsibility is to check students' homework and assist students' to accomplish the experiments, which trains my communication skills and the ability to express my thoughts clearly.
+* Reviewer of IEEE Internet of Things Journal.
   
 Scholarship
 ======

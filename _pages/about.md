@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Brief Introduction
+**About me**
 ======
-Hello everyone! Welcome to my personal blog.
+Hello! Welcome to my personal blog.
 
-I am currently a senior university student (2021.09-2025.06) in Sun Yat-sen University in China, majoring in Software Engineering.
+I am currently a senior university student (2021.09-2025.06) in the School of Software Engineering, Sun Yat-sen University in China.
 
-My interest is distributed system and machine learning. I am pursuing for Ph.d in order to learn more and make a difference in these fields.
+My interest lies in distributed system, including Blockchain principles and consensus mechanisms. Besides, I am also interested in the intersection between **artificial intelligence** and **distributed system**.
 
-You can turn to [CV](https://michael112233.github.io/cv/) for more details.
+**News**
+======
+* <u>Oct. 2024</u> I was invited to be a reviewer of _IEEE Internet of Things Journal_
