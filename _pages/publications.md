@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+**Publications**
+======
+To be updated.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Manuscript & Submitted**
+======
+* <u>Chenlin Wu</u>, Xiaoyu He*, Zike Li, Zibin Zheng, "A Historical Trajectory Assisted Optimization Method for Zeroth-Order Federated Learning" 
+
+[![](https://img.shields.io/badge/arxiv-2409.15955-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.15955)
+  
+
+* Huawei Huang, Miaoyong Xu, <u>Chenlin Wu</u>, Lu Zhou, Zibin Zheng*, "LessChain: A Secure Sharding Blockchain by Decoupling Consensus and Storage" 
