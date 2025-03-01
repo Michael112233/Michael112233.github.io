@@ -11,4 +11,7 @@ main:
     
   - title: "CV"
     url: /files/michael_cv.pdf
+  
+  - title: "Posts"
+    url: /post/
 
