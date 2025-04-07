@@ -7,5 +7,6 @@ author_profile: true
 
 **📗 Teaching**
 ======
-* <u>Feb. 2024 - Jul. 2024</u>  Teaching Assistant of **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
-* <u>Feb. 2025 - Jul. 2025</u>  Teaching Assistant of **Principles of Compilers** and **Compilers Construction Laboratory** at the School of Cyber Science and Technology, Sun Yat-sen University.
+### Teaching Assistant
+* 2025 Spring  **Principles of Compilers(CSE312)** and **Compilers Construction Laboratory(CSE314)**, Sun Yat-sen University
+* 2024 Spring  **Principles of Compilers(CSE312)** and **Compilers Construction Laboratory(CSE314)**, Sun Yat-sen University
