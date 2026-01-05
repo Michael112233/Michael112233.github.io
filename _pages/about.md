@@ -17,4 +17,4 @@ My interest lies in **distributed system**, including Blockchain principles and 
 
 **🔥 News**
 ======
-* <u>Oct. 2024</u>   I was invited to be a reviewer of _IEEE Internet of Things Journal_
+<!-- * <u>Oct. 2024</u>   I was invited to be a reviewer of _IEEE Internet of Things Journal_ -->

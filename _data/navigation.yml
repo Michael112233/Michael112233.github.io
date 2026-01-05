@@ -3,15 +3,14 @@ main:
   - title: "About me"
     url: /about/
   
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Publications"
-    url: /publications
+  # - title: "Publications"
+  #   url: /publications
     
   - title: "CV"
-    url: /files/michael_cv.pdf
+    url: /files/chenlinwu_michael233_cv.pdf
   
-  - title: "Posts"
-    url: /post/
+
 
