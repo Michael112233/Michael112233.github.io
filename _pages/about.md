@@ -9,12 +9,11 @@ redirect_from:
 
 **❗️ About me**
 ======
-Hello! Welcome to my personal blog.
 
-I am currently a senior university student in the School of Software Engineering, Sun Yat-sen University in China. I am expected to graduate in June 2025.
+Hello, I am Chenlin Wu, a Ph.D. student at City University of Hong Kong supervised by Prof. Chenyuan Wu.
 
-My interest lies in **distributed system**, including Blockchain principles and consensus mechanisms. Besides, I am also interested in the intersection between **artificial intelligence** and **distributed system**.
+My research interest lies in distributed systems, particularly blockchain technologies and Byzantine fault-tolerant (BFT) consensus.
+I am also interested in AI infrastructure and agentic systems.
 
-**🔥 News**
-======
-<!-- * <u>Oct. 2024</u>   I was invited to be a reviewer of _IEEE Internet of Things Journal_ -->
+<!-- **🔥 News**
+====== -->
